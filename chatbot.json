@@ -1,3 +1,7 @@
 [
-  {"servico": "radar", "link":"https://www.figma.com/file/ZIVbvTlp3vdmrcI1BqzZ8h/CHATBOT---RADAR?type=whiteboard&node-id=0%3A1&t=u66JkzZqKG9Yxewf-1"}
+  {"servico": "radar", "link":"https://www.figma.com/file/ZIVbvTlp3vdmrcI1BqzZ8h/CHATBOT---RADAR?type=whiteboard&node-id=0%3A1&t=u66JkzZqKG9Yxewf-1"},
+  {"servico": "fgts", "link":"https://www.figma.com/file/HtV1g0ESzezLy5PRi1k7PY/CHATBOT-FGTS?type=whiteboard&t=Xd7WLPw5UgPGsoH9-1"},
+  {"servico": "dni", "link":"https://www.figma.com/file/f7WfYMVuVN7oDxsXuTRRnb/CHATBOT---DNI?type=whiteboard&t=Xd7WLPw5UgPGsoH9-1"},
+  {"servico": "cdt", "link":"https://www.figma.com/file/26PcnsqBbOxeJchRsnV0dK/CHATBOT---CDT-v1.0?type=whiteboard&t=Xd7WLPw5UgPGsoH9-1"},
+  {"servico": "rais", "link":"https://www.figma.com/file/k1HJ6N2QFTdfEMoAVCDKlA/CHATBOT---RAIS?type=whiteboard&t=Xd7WLPw5UgPGsoH9-1"}
 ]
