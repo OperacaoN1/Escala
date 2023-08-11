@@ -1,7 +1,7 @@
 [
   {"servico": "cdt", "versao": [{"nome": "v1.0", "link": "https://www.figma.com/file/26PcnsqBbOxeJchRsnV0dK/CHATBOT---CDT-v1.0?type=whiteboard&node-id=0%3A1&t=uZFBgpmRQzGoNJTG-1", "estado": "uso"}, {"nome": "v2.0", "link": "https://www.figma.com/file/umF3Y8sKaAn1Im8bcmXIjG/CHATBOT---CDT-v2.0?type=whiteboard&node-id=0%3A1&t=jxpa7NrxUatu4AGN-1", "estado": "desuso"}] },
   {"servico": "dni", "versao": [{"nome": "v1.0", "link": "https://www.figma.com/file/f7WfYMVuVN7oDxsXuTRRnb/CHATBOT---DNI-v1.0?type=whiteboard&t=uZFBgpmRQzGoNJTG-1", "estado": "uso"}] },
-  {"servico": "fgts", "versao": [{"nome": "v1.0", "link": "https://www.figma.com/file/HtV1g0ESzezLy5PRi1k7PY/CHATBOT-FGTS-v1.0?type=whiteboard&t=uZFBgpmRQzGoNJTG-1", "estado": "uso"}] },
+  {"servico": "fgts", "versao": [{"nome": "v1.1", "link": "https://www.figma.com/file/xiXUGM3Tr9nSwan44Rgq87/CHATBOT-FGTS-v1.1?type=whiteboard&node-id=0%3A1&t=qXo81Xm9BJ6e2MOB-1", "estado": "uso"}] },
   {"servico": "geral", "versao": [{"nome": "v1.0", "link": "https://www.figma.com/file/pHYw8Hy69QR6BuWQDkfmMu/CHATBOT---GERAL-v1.0?type=whiteboard&t=uZFBgpmRQzGoNJTG-1", "estado": "uso"}] },
   {"servico": "radar", "versao": [{"nome": "v1.0", "link": "https://www.figma.com/file/ZIVbvTlp3vdmrcI1BqzZ8h/CHATBOT---RADAR-v1.0?type=whiteboard&t=uZFBgpmRQzGoNJTG-1", "estado": "uso"}] },
   {"servico": "renave", "versao": [{"nome": "v1.0", "link": "https://www.figma.com/file/JYy5keT4ymdaZoJqmvNdb5/CHATBOT-RENAVE-v1.0?type=whiteboard&t=uZFBgpmRQzGoNJTG-1", "estado": "uso"}] },
